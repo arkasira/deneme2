@@ -1,2 +1,2 @@
-# deneme2
+# HRDIC calismalarim
 Yaptigimizin ikincisi
